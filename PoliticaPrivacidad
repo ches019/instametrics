@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Política de Privacidad - Beer DB</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fafafa;
+      color: #333;
+    }
+    h1 {
+      color: #222;
+    }
+  </style>
+</head>
+<body>
+  <h1>Política de Privacidad</h1>
+  <p><strong>Beer DB</strong> respeta la privacidad de sus usuarios y cumple con la normativa vigente sobre protección de datos.</p>
+
+  <h2>1. Datos que recopilamos</h2>
+  <p>Beer DB no recopila datos personales de los usuarios de forma directa. Sin embargo, al conectarse mediante la API de Instagram, se pueden obtener datos públicos de la cuenta autorizada (como estadísticas o publicaciones).</p>
+
+  <h2>2. Uso de la información</h2>
+  <p>La información obtenida se utiliza únicamente para mostrar métricas y contenido relacionado con la cuenta de Instagram autorizada. No se comparte con terceros ni se utiliza con fines comerciales ajenos a la app.</p>
+
+  <h2>3. Seguridad de los datos</h2>
+  <p>Los datos no se almacenan en servidores propios de Beer DB, sino que se consultan directamente desde la API oficial de Meta/Instagram. Esto garantiza el cumplimiento de las políticas de privacidad de Meta.</p>
+
+  <h2>4. Derechos del usuario</h2>
+  <p>En cualquier momento puedes revocar el acceso de la app a tu cuenta de Instagram desde la configuración de tu perfil en Meta/Instagram.</p>
+
+  <h2>5. Contacto</h2>
+  <p>Para cualquier duda sobre esta política de privacidad, puedes escribirnos a: <a href="mailto:contacto@beerdb.com">contacto@beerdb.com</a></p>
+
+  <p><em>Última actualización: Julio 2025</em></p>
+</body>
+</html>
